@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me  
-I am a **Senior Systems & Cloud Engineer** with nearly **10 years of experience** delivering secure, scalable, and automated cloud platforms across **AWS** and enterprise environments.  
+I am a **Senior Cloud & Devops Engineer** with nearly **10 years of experience** delivering secure, scalable, and automated cloud platforms across **AWS** and enterprise environments.  
 
 My work spans **Infrastructure as Code**, **CI/CD automation**, **data ingestion pipelines**, **logging platforms**, **cloud security**, and **modernising legacy systems**. I love solving real engineering problems, building reliable systems, and continuously learning.
 
@@ -64,15 +64,6 @@ A curated set of real-world pipelines:
 - Jenkins pipelines  
 - Deployment workflows for Java / React / Python apps  
 👉 *(Repo link coming soon)*
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitchitradurga&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitchitradurga&layout=compact&theme=tokyonight" height="160" />
-</p>
 
 ---
 
