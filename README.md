@@ -131,7 +131,7 @@ A curated collection of **real-world CI/CD pipelines** showcasing automation bes
 ---
 
 ## 📫 Connect With Me
-- **LinkedIn:** https://www.linkedin.com/in/rohit-chitradurga  
+- **LinkedIn:** <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>  
 
 ---
 
