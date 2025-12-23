@@ -1,82 +1,138 @@
 ## Hi there 👋
 <h1 align="center">Hi, I'm Rohit 👋</h1>
-<h3 align="center">Senior Cloud & DevOps Engineer | AWS Specialist | Infrastructure Automation | Data & Platform Engineering</h3>
+<h3 align="center">Senior Cloud & Platform Engineer | AWS Architect | Infrastructure & Cost Optimisation</h3>
 
 ---
 
 ## 🚀 About Me  
-I am a **Senior Cloud & Devops Engineer** with nearly **10 years of experience** delivering secure, scalable, and automated cloud platforms across **AWS** and enterprise environments.  
 
-My work spans **Infrastructure as Code**, **CI/CD automation**, **data ingestion pipelines**, **logging platforms**, **cloud security**, and **modernising legacy systems**. I love solving real engineering problems, building reliable systems, and continuously learning.
+I am a **Senior Cloud & Platform Engineer** with nearly **10 years of experience** designing, building, and operating **secure, scalable, and cost-efficient cloud platforms** on AWS.
+
+My background spans **infrastructure architecture**, **platform engineering**, **Infrastructure as Code**, **CI/CD automation**, **data ingestion pipelines**, **logging and observability platforms**, and **cloud security & governance**.  
+
+Recently, I have been focusing on **AWS cost optimisation and FinOps-aligned engineering**, building systems that bridge the gap between **cloud usage, architectural decisions, and business cost ownership**.
+
+I enjoy solving real engineering problems, simplifying complex systems, and building platforms that scale responsibly.
 
 ---
 
 ## 🧰 Core Skills & Technologies
 
-### ☁️ **Cloud & Infrastructure**
-- AWS (VPC, EC2, ECS, Fargate, Lambda, DynamoDB, RDS, S3, CloudTrail, CloudWatch, OpenSearch)  
-- Azure (foundational experience)
+### ☁️ Cloud & Infrastructure
+- AWS: VPC, EC2, ECS, Fargate, Lambda, DynamoDB, RDS, S3, CloudTrail, CloudWatch, OpenSearch  
+- Azure: Foundational experience
 
-### 🛠 **DevOps, IaC & Automation**
-- Terraform, CloudFormation, AWS CDK (exposure)  
-- GitHub Actions, Jenkins, GitLab CI, CodePipeline  
+### 🛠 Platform Engineering, IaC & Automation
+- Terraform, CloudFormation  
+- GitHub Actions, Jenkins, GitLab CI, AWS CodePipeline  
 - Docker, ECS, Kubernetes (working knowledge)  
 - Python, Bash, PowerShell  
 - Ansible, Packer  
 
-### 📊 **Data Engineering & Logging**
-- JSON → Parquet conversion  
+### 📊 Data Engineering & Observability
+- JSON → Parquet transformations  
 - DynamoDB, RDS, OpenSearch  
-- ETL/ELT workflows with Glue, Lambda, ECS Fargate  
-- Logstash, ELK, observability tooling  
+- ETL/ELT workflows using Glue, Lambda, ECS Fargate  
+- Logstash, ELK stack, observability tooling  
 
-### 🔐 **Security & Governance**
+### 🔐 Security & Governance
 - IAM, SCPs, KMS, Secrets Manager, AWS Config  
-- VPC networking, PrivateLink, Endpoints, NACLs  
+- VPC networking, PrivateLink, VPC Endpoints, NACLs  
 
 ---
 
 ## 🏗 Featured Projects  
 
-### 🔸 **AWS Data Pipeline: JSON → Parquet → Analytics**
-A production-style ingestion pipeline demonstrating:
-- Log ingestion at scale  
-- Transformations (JSON → Parquet)  
-- Storage & indexing across DynamoDB, RDS & OpenSearch  
-- Serverless & container-based ETL  
-👉 *(Repo link coming soon)*
+### 🔸 AWS Cost Optimisation & FinOps Insight Platform (MVP)
+
+A cloud-native **AWS cost optimisation platform** focused on bridging the gap between **infrastructure usage, architectural context, and business cost visibility**.
+
+**What this project demonstrates:**
+- Practical FinOps-aligned engineering rather than reactive cost cutting  
+- Architecture-aware cost insights instead of isolated billing reports  
+- Ownership of cost as a first-class platform concern  
+
+**Key capabilities:**
+- Ingests AWS billing and usage data alongside infrastructure metadata  
+- Correlates services, workloads, and environments to surface **actionable optimisation opportunities**  
+- Identifies inefficiencies across compute, storage, and managed services  
+- Designed to support collaboration between **engineering and finance teams**  
+
+**Architecture & tooling:**
+- AWS billing and cost data ingestion  
+- Serverless and container-based processing using Lambda and ECS Fargate  
+- Data analysis using DynamoDB, RDS, and OpenSearch  
+- Infrastructure defined using Terraform  
+
+**Focus areas:**
+- Cost attribution and visibility  
+- Architecture-driven optimisation recommendations  
+- Scalable design suitable for multi-account AWS environments  
+
+👉 *(Repository link coming soon)*
 
 ---
 
-### 🔸 **Infrastructure as Code: Multi-Environment AWS Deployment**
-Showcases best practices in Terraform with modules for:  
-- Networking  
-- Compute  
-- Observability  
-- CI/CD automation  
-👉 *(Repo link coming soon)*
+### 🔸 Terraform AWS Enterprise Boilerplate
+
+An **enterprise-grade AWS reference architecture** built using Terraform, designed for **secure, scalable, and compliant multi-environment deployments**.
+
+This project demonstrates how to build a **production-ready cloud foundation** using modular Infrastructure as Code principles.
+
+**Key features:**
+- Modular Terraform architecture for network, IAM, logging, and compute  
+- Environment isolation for `dev`, `staging`, and `prod`  
+- Security-first design with least-privilege IAM and encryption by default  
+- Centralised logging using S3, CloudWatch, and KMS  
+- CI/CD automation using GitHub Actions for Terraform validation and deployment  
+
+**Use cases:**
+- AWS landing zones  
+- Platform engineering foundations  
+- Enterprise and regulated workloads  
+- Scalable infrastructure automation patterns  
+
+👉 https://github.com/Rohitchitradurga/terraform-aws-enterprise-boilerplate
 
 ---
 
-### 🔸 **DevOps CI/CD Pipelines Collection**
-A curated set of real-world pipelines:
-- GitHub Actions (containers, IaC, app builds)  
-- Jenkins pipelines  
-- Deployment workflows for Java / React / Python apps  
-👉 *(Repo link coming soon)*
+### 🔸 AWS Data Pipeline: JSON → Parquet → Analytics
+
+A production-style data ingestion and analytics pipeline demonstrating **real-world cloud data engineering patterns**.
+
+**Highlights:**
+- High-volume log ingestion  
+- JSON to Parquet transformations  
+- Storage and indexing across DynamoDB, RDS, and OpenSearch  
+- Serverless and container-based ETL workflows  
+
+👉 *(Repository link coming soon)*
+
+---
+
+### 🔸 CI/CD Pipelines Collection
+
+A curated collection of **real-world CI/CD pipelines** showcasing automation best practices across multiple stacks.
+
+**Includes:**
+- GitHub Actions pipelines for applications, containers, and IaC  
+- Jenkins pipelines for legacy and modern workloads  
+- Deployment workflows for Java, React, and Python applications  
+
+👉 *(Repository link coming soon)*
 
 ---
 
 ## 🧩 Currently Working On
-- Building public repositories to showcase real-world DevOps & cloud engineering projects  
-- Deepening expertise in distributed systems, data pipelines & cloud architecture  
-- Preparing for AWS DevOps Engineer Professional certification  
+- Building public repositories that demonstrate **platform engineering, cost optimisation, and cloud architecture**  
+- Expanding the AWS cost optimisation MVP with deeper FinOps insights  
+- Exploring advanced cloud architecture and distributed systems design  
 
 ---
 
-## 📫 Connect with Me
-- **LinkedIn:** https://www.linkedin.com/in/rohit-chitradurga
+## 📫 Connect With Me
+- **LinkedIn:** https://www.linkedin.com/in/rohit-chitradurga  
 
 ---
 
-<p align="center">🚀 Always learning. Always building. Always levelling up.</p>
+<p align="center">🚀 Always learning. Always building. Always optimising.</p>
