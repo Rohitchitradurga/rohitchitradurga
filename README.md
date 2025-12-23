@@ -106,7 +106,7 @@ A production-style data ingestion and analytics pipeline demonstrating **real-wo
 - Storage and indexing across DynamoDB, RDS, and OpenSearch  
 - Serverless and container-based ETL workflows  
 
-👉 *(Repository link coming soon)*
+👉 https://github.com/Rohitchitradurga/aws-json-parquet-analytics-pipeline
 
 ---
 
